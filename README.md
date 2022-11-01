@@ -29,7 +29,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-<br>
+</br>
 
 ![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpts&show_icons=true&theme=gotham) 
 
