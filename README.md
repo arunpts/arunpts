@@ -31,7 +31,10 @@
 
 <br>
 
-![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpts&show_icons=true&theme=gotham) <br>
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpts&show_icons=true&theme=gotham) 
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunpts&theme=gotham&layout=compact)](https://github.com/arunpts/arunpts)
 
 <br>
