@@ -29,7 +29,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
-</br>
 
 ![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunpts&show_icons=true&theme=gotham) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunpts&theme=gotham&layout=compact)](https://github.com/arunpts/arunpts)
